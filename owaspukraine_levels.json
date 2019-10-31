@@ -1,0 +1,479 @@
+{
+    "levels": [
+        {
+            "type": "flag",
+            "title": "BC",
+            "active": true,
+            "description": "\u041d\u043e\u0432\u0430, \u0437\u043d\u0430\u0447\u043d\u043e \u0437\u0440\u0456\u0447\u043d\u0456\u0448\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u0435\u0440\u0435\u0433\u043b\u044f\u0434\u0443 \u0444\u0430\u0439\u043b\u0456\u0432 \u043d\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0456. \u0406 \u043d\u0435 \u043f\u043e\u0442\u0440\u0430\u043f\u043b\u044f\u0454 \u0432 Google Dorks.",
+            "entity_iso_code": "Lviv",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Magic_Hashes_Voodoo_Hashes}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/1.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "CB",
+            "active": true,
+            "description": "\u0427\u0435\u0440\u0433\u043e\u0432\u0438\u0439 \u043d\u0430\u043f\u0456\u0432-\u043b\u0435\u0433\u0430\u043b\u044c\u043d\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0437 \u043a\u043e\u043d\u0444\u0456\u0441\u043a\u0430\u0442\u043e\u043c.",
+            "entity_iso_code": "Chernihiv",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{PRUF_FOR_ALL_THAT_I_AM_HACKER}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/2.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "AA",
+            "active": true,
+            "description": "\u041a\u043e\u043b\u0438 front-end \u043a\u0440\u0430\u0441\u0438\u0432\u0456\u0448\u0438\u0439 \u0437\u0430 back-end",
+            "entity_iso_code": "Kyiv",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Fortune_favors_the_brave}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/3.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "CE",
+            "active": true,
+            "description": "\ud83d\ude17\ud83d\udc11\ud83d\ude80\ud83d\ude2d\ud83d\ude1a\ud83d\ude2d\ud83d\udc0e\ud83d\udc0e\ud83d\udea3\ud83c\udf39\ud83d\ude85\ud83c\udf03\ud83c\udfb3\ud83c\udfea\ud83d\udc9e\ud83c\udf6c\ud83d\udc72\u2744\ud83c\udf58\ud83c\udf39\ud83d\ude04\ud83d\udc79\ud83c\udf03\u2744\ud83c\udf58\u2744\ud83c\udf7a\ud83c\udf03\ud83d\ude04\ud83d\udc79\ud83d\udcf2\ud83c\udf39\ud83c\udf03\ud83c\udf6c\ud83c\udf7a\ud83d\udc72\ud83c\udf7a\ud83d\ude4d",
+            "entity_iso_code": "Chernivtsi",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Good_ctf-maker_interesting_tasks}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/4.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "AT",
+            "active": true,
+            "description": "\u041d\u0430\u0448 \u0430\u043d\u0430\u043b\u0456\u0437\u0430\u0442\u043e\u0440 \u0441\u0442\u0430\u0442\u0438\u0447\u043d\u043e\u0433\u043e \u043a\u043e\u0434\u0443 \u0449\u0435 \u0432 \u043f\u0440\u043e\u0446\u0435\u0441\u0456 \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u0456 \u043f\u043e\u0433\u0430\u043d\u043e \u043f\u0440\u0430\u0446\u044e\u0454, \u0442\u043e\u043c\u0443 \u043c\u043e\u0436\u0435\u0442\u0435 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u0457\u043c \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e",
+            "entity_iso_code": "Ivano-Frankivsk",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Finally_You_Got_It}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/5.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "AE",
+            "active": true,
+            "description": "\u0411\u0443\u0432\u0430\u044e\u0442\u044c \u043a\u043e\u043b\u0456\u0437\u0456\u0457 \u0432 md5, \u0446\u0435 \u043c\u0438 \u0437\u043d\u0430\u0454\u043c\u043e. \u0410 \u0447\u0438 \u0431\u0443\u0432\u0430\u0454 \u043d\u0430\u0432\u043f\u0430\u043a\u0438?",
+            "entity_iso_code": "Dnipropetrovsk",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Daenerys_will_die_in_the_end}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/6.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "BA",
+            "active": true,
+            "description": "\u0423 \u043d\u0435\u0441\u043a\u0456\u043d\u0447\u0435\u043d\u043d\u0456\u0441\u0442\u044c \u0456 \u0434\u0430\u043b\u0456!",
+            "entity_iso_code": "Kirovohrad",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{To_infinity...and_beyond!}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/7.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "BI",
+            "active": true,
+            "description": "\u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0443\u0439 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0443 \u0456 \u043a\u043e\u043d\u0444\u0435\u0440\u0442\u0443\u0439 \u0432 makdown. \u041d\u0430\u043c \u0437\u0434\u0430\u043b\u043e\u0441\u044c \u0449\u043e \u0446\u0435 \u043a\u043e\u0440\u0438\u0441\u043d\u0438\u0439 \u0441\u0435\u0440\u0432\u0456\u0441.",
+            "entity_iso_code": "Poltava",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{BLoody_UMbrella}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/8.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "AP",
+            "active": true,
+            "description": "\u0422\u0430\u043a\u0438\u0439 \u0432\u0438\u0433\u043b\u044f\u0434 \u043c\u043e\u0433\u043b\u0430 \u0431 \u043c\u0430\u0442\u0438 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0430 \u043d\u0430\u0448\u043e\u0457 \u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0456\u0457, \u044f\u043a\u0431\u0438 \u0457\u0457 \u0440\u043e\u0431\u0438\u043b\u0438 \u043c\u0438.",
+            "entity_iso_code": "Zaporizhia",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Xuman_Like_Machines}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/9.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "BX",
+            "active": true,
+            "description": "\u0422\u0430\u043a, \u0442\u0432\u0456\u0439 \u043f\u0440\u0430\u043f\u043e\u0440\u0435\u0446\u044c \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u0438\u0439, \u043c\u0438 \u0436 \u0441\u0430\u043c\u0456 \u0439\u043e\u0433\u043e \u0442\u043e\u0431\u0456 \u0449\u043e\u0439\u043d\u043e \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u0438\u043b\u0438.",
+            "entity_iso_code": "Khmelnytskyi",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Life_is_trying_things_to_see_if_they_work}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/10.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "AC",
+            "active": true,
+            "description": "\u201cNo, I am your father!\u201d",
+            "entity_iso_code": "Volyn",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Path_to_the_dark_side}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/11.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "BM",
+            "active": true,
+            "description": "\u0417\u0430\u0445\u043e\u0434\u0438\u0442\u044c SQL-\u0437\u0430\u043f\u0438\u0442 \u0432 \u0431\u0430\u0440...",
+            "entity_iso_code": "Sumy",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{A_SQL_query_goes_into_a_bar,_walks_up_to_two_tables_and_asks,_Can_I_join_you?}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/12.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "AB",
+            "active": true,
+            "description": "\"\u0423 \u0441\u0432\u0456\u0442\u0456 \u0454 \u0447\u0438\u043c\u0430\u043b\u043e \u0432\u0430\u0436\u043a\u0438\u0445 \u0440\u0435\u0447\u0435\u0439, \u0430\u043b\u0435 \u043d\u0435\u043c\u0430\u0454 \u043d\u0456\u0447\u043e\u0433\u043e \u0432\u0430\u0436\u0447\u043e\u0433\u043e \u0437\u0430 \u0447\u043e\u0442\u0438\u0440\u0438 \u0434\u0456\u0457 \u0430\u0440\u0438\u0444\u043c\u0435\u0442\u0438\u043a\u0438\"",
+            "entity_iso_code": "Vinnytsia",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{completely_automated_public_turing_test}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/13.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "BT",
+            "active": true,
+            "description": "Welcome to HACKSYS the hacking game!",
+            "entity_iso_code": "Kherson",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Welcome_to_HACKSYS_the_hacking_game}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/14.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "AX",
+            "active": true,
+            "description": "\"\u0421\u041c\u0421 \u0446\u0435 \u043d\u0435 \u0434\u0440\u0443\u0433\u0438\u0439 \u0444\u0430\u043a\u0442\u043e\u0440\" NoNameCon podcast",
+            "entity_iso_code": "Kharkiv",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{One_Time_Password}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/15.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "BB",
+            "active": true,
+            "description": "\u0412 \u043d\u0430\u0432\u0443\u0448\u043d\u0438\u043a\u0430\u0445 \u043c\u043e\u0436\u043d\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0431\u0456\u043b\u044c\u0448\u0435 \u0437\u0430\u0434\u043e\u0432\u043e\u043b\u0435\u043d\u043d\u044f \u0432\u0456\u0434 \u0446\u044c\u043e\u0433\u043e \u0437\u0430\u0432\u0434\u0430\u043d\u043d\u044f",
+            "entity_iso_code": "Luhansk",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{NGINX_conf_its_EASY_and_Secure}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/16.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "AO",
+            "active": true,
+            "description": "\u041f\u043e\u043f\u0435\u0440\u0435\u0434\u043d\u0456\u0439 \u043f\u0435\u043d\u0442\u0435\u0441\u0442 \u043d\u0430\u0448\u043e\u0433\u043e \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0443 \u0431\u0443\u0432 \u0437\u0435\u043b\u0435\u043d\u0438\u043c.",
+            "entity_iso_code": "Zakarpattia",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{XSS_Could_Make_You_Waste_Your_Life}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/17.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "BH",
+            "active": true,
+            "description": "\u042f\u043a \u043d\u0435 \u043c\u043e\u0436\u0435\u0448 \u043f\u0440\u0430\u043f\u043e\u0440\u0446\u0456 \u043f\u043e\u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0438, \u0442\u043e \u0445\u043e\u0447 \u0432 \u0433\u0440\u0443 \u043f\u043e\u0433\u0440\u0430\u0439. CTF - \u043c\u0430\u0454 \u0431\u0443\u0442\u0438 \u0432\u0435\u0441\u0435\u043b\u0438\u043c.",
+            "entity_iso_code": "Odessa",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{I_hope_it_was_not_a_bruteforce}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/18.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "CA",
+            "active": true,
+            "description": "\u0417\u0440\u0443\u0447\u043d\u0438\u0439 \u0441\u0435\u0440\u0432\u0456\u0441 \u0434\u043b\u044f \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043d\u044f \u0444\u043e\u0442\u043e\/\u0432\u0456\u0434\u0435\u043e \u0437 Instagram",
+            "entity_iso_code": "Cherkasy",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Home_is_where_my_cat_is}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/19.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "BO",
+            "active": true,
+            "description": "\u041d\u0430\u0441 \u0437\u043b\u0430\u043c\u0430\u043b\u0438 \u0456 \u0432\u0438\u0434\u0430\u043b\u0438\u043b\u0438 \u0432\u0441\u0456 \u0434\u0430\u043d\u0456. \u0411\u0435\u043a\u0430\u043f\u0438 \u0443 \u043d\u0430\u0441 \u0454, \u0430\u043b\u0435 \u043a\u043e\u0440\u0438\u0441\u043d\u043e \u0431\u0443\u043b\u043e \u0431  \u0437\u0440\u043e\u0437\u0443\u043c\u0456\u0442\u0438 \u044f\u043a \u043d\u0430\u0441 \u043f\u043e\u043b\u0430\u043c\u0430\u043b\u0438 \u0456 \u044f\u043a\u0443 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u0437\u043b\u0438\u043b\u0438 \u0437\u043b\u043e\u0432\u043c\u0438\u0441\u043d\u0438\u043a\u0438.",
+            "entity_iso_code": "Ternopil",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Friday_is_my_second_favorite_F_word}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/20.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "AH",
+            "active": true,
+            "description": "\u0422\u0443\u0442 \u043c\u043e\u0436\u043d\u0430 \u043f\u0435\u0440\u0435\u0432\u0456\u0440\u0438\u0442\u0438 \u0441\u0432\u043e\u044e \u0443\u0434\u0430\u0447\u0443.",
+            "entity_iso_code": "Donetsk",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Talk_is_cheap.Show_me_the_code}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/21.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "BK",
+            "active": true,
+            "description": "\u0412\u0441\u0456 \u0436 \u043c\u0438 \u0456\u043d\u043a\u043e\u043b\u0438 \u0444\u043e\u0440\u043a\u0430\u0454\u043c\u043e \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0438\u0439 \u043d\u0430\u043c \u0444\u0443\u043d\u043a\u0446\u0456\u043e\u043d\u0430\u043b \u0437 github?",
+            "entity_iso_code": "Rivne",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{Live_For_Inclusions}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/22.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "AM",
+            "active": true,
+            "description": "\u041d\u0430\u0448 \u0444\u043e\u0440\u0443\u043c \u0442\u0440\u0456\u0448\u043a\u0438 \u0437\u043b\u0430\u043c\u0430\u0432\u0441\u044f, \u0454 \u0456\u0434\u0435\u0457 \u044f\u043a \u0446\u0435 \u043f\u043e\u0444\u0456\u043a\u0441\u0438\u0442\u0438?",
+            "entity_iso_code": "Zhytomyr",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{vBulletin_5.x_0day_pre-auth_RCE_exploit}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/23.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "\u0410\u041a",
+            "active": true,
+            "description": "\"In beer we trust\"",
+            "entity_iso_code": "Crimea",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{1408eee9b432110a28a5c62b6902376d}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/24.owaspctf.gq\/"
+            ],
+            "attachments": []
+        },
+        {
+            "type": "flag",
+            "title": "BE",
+            "active": true,
+            "description": "\u0426\u0435 \u0432\u0436\u0435 \u043e\u0441\u0442\u0430\u043d\u043d\u0454 25\u0442\u0435 \u0437\u0430\u0432\u0434\u0430\u043d\u043d\u044f \u044f\u043a\u0435 \u044f \u0437\u0440\u043e\u0431\u0438\u0432, \u0442\u043e\u043c\u0443 \u043e\u0441\u044c \u0432\u0430\u043c \u043f\u0440\u043e\u0441\u0442\u043e \u0437\u0430\u043f\u0438\u0442 \u0432 \u0411\u0414 select flag from Flag",
+            "entity_iso_code": "Mykolaiv",
+            "category": "None",
+            "points": 1,
+            "bonus": 0,
+            "bonus_dec": 0,
+            "bonus_fix": 0,
+            "flag": "FLAG{I_wiil_not_do_ctf_one_more_time}",
+            "hint": "",
+            "penalty": 0,
+            "links": [
+                "https:\/\/25.owaspctf.gq\/"
+            ],
+            "attachments": []
+        }
+    ]
+}

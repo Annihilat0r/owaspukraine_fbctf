@@ -1,4 +1,13 @@
-# FBCTF [![Build Status](https://travis-ci.org/facebook/fbctf.svg)](https://travis-ci.org/facebook/fbctf)
+# OWASP Ukraine FBCTF 
+Порядок запуску
+```
+docker-compose build
+docker-compose up
+```
+Під час `docker-compose build` буде згенеровано пароль адміністратора. В браузері відкрити `https://127.0.0.1:8443/`.В адмін панелі необхідно імпортувати рівні з `owaspukraine_levels.json` та за бажанням переключити мову інтерфейсу на UA.  
+</br>
+Карта України [Олексій Старов](https://github.com/ostarov).   
+Переклад українською (Сергій Охріменко, Денис @kovden)  
 
 ## What is FBCTF?
 
